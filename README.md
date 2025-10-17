@@ -1,2 +1,2 @@
 # procurement-ai-workflow
-AI Driven procurement workflow system
+Procurement workflow system powered by AI-driven compliance checks, orchestrated multi-agent workflows, and fault-tolerant durability using Temporal.
